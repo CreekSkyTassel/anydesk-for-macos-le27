@@ -1,4 +1,4 @@
-
+Enhance AnyDesk for macOS with vip AnyDesk for macOS Helper | screen-sharing + remote-control, the #1 helper. Includes screen-sharing and remote-control for a smoother and more
 
 
 
